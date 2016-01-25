@@ -1,0 +1,28 @@
+name: christophoros.photography
+favicon: null
+layout_spectrum: 0.020585424499586225
+typography_spectrum: 0.2240356144029647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6975502609275281
+  lightness: 0.21605314686894417
+  saturation: 0.06142528308555484
+  rhythmicContrast: 0.3262572190724313
+purpose: []
